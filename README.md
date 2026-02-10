@@ -6,5 +6,6 @@ This script takes a subtitle file (holyGrail.srt), which contains the closed cap
 
 Then we take a dictionary containing the words we wish to plot (including any synonyms we provide) and produces a plot.
 
+![Uploading Screenshot 2026-02-10 at 18.25.36.png…]()
 
 
